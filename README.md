@@ -3,7 +3,7 @@
 Este es un simple juego en el que el jugador controla una nave y trata de colisionar meteoritos que caen del cielo. El objetivo del juego es acumular la mayor cantidad de puntos posible al destruir los meteoritos.
 </p>
 
-##Requisitos
+## Requisitos
 <p>
 - Python 3.x
 - Pygame
