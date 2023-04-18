@@ -5,6 +5,7 @@ Este es un simple juego en el que el jugador controla una nave y trata de colisi
 
 ## Requisitos
 <p>
+  
 - Python 3.x
   
 - Pygame
@@ -12,6 +13,7 @@ Este es un simple juego en el que el jugador controla una nave y trata de colisi
 
 ## Cómo jugar
 <p>
+  
 - Ejecute el archivo game.py.
   
 - Use el mouse para mover al personaje y colisionar los meteoritos.
